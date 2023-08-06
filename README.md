@@ -1,1 +1,65 @@
-# spotify
+# SPOTIFY 24 hours hackathon
+The challenge posed by Spotify during the 24-hour hackathon was centered around podcasters and finding innovative ways to facilitate meaningful interactions with their audience. The goal was to create an intuitive, rewarding, and fun platform that connects podcasters and their listeners, focusing on catering to Gen Z users.
+
+# The solution
+Utilize machine learning, specifically Auto Speech Recognition, to generate compelling clips of podcast episodes. We then create an interactive feed on the platform where listeners can engage with these snippets, leave comments, like, dislike, and share their favorite clips.
+The platform's machine-learning capabilities enable it to learn from user interactions and preferences. 
+Over time, the feed becomes more personalized, presenting listeners with snippets that align with their specific interests and tastes.This approach makes sharing podcasts as fun, easy, and rewarding as sharing music, while taking advantage of Spotify for Podcasters' resources.
+
+
+## My contributions
+As a Software Engineer, I played a key role in swiftly building the solution while adhering to pixel-perfect designs and features crafted by the UX designers. Utilizing my background in UX design, I assisted the UX design team in creating an intuitive platform, ensuring ease of use and optimal interaction.
+Through effective communication and collaboration, I facilitated a cohesive approach between the Software Engineering, Data Science and UX Design teams, resulting in a successful and rewarding product that connects podcasters with their audience which led us to winning the competition.
+
+
+## Table of Content 
+- [Features and user Flow](#features)
+- [Installation](#installation)
+- [End Points](#endpoints)
+- [Conclusion](#conclusion)
+
+
+## Features 
+
+- Listen to several podcasts on a "discover and engage feed"
+- Interactive sidebar on every podcast snippet: 
+   - Like
+   - Disklike
+   - Share 
+   - Play the audio
+
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/moomance/spotify.git`
+2. Install the dependencies: `npm install`
+3. Set up the database: `mysql -u root -p`
+4. Create database `CREATE DATABASE industry`
+5. Once you have a database, update the knexfile.js with your user, password, and database information. 
+6. Create a .env file based on .env.example, and update your password information
+7. Start the client: `npm start`
+8. Start the server: `node --watch index.js`
+
+
+## Conclusion 
+
+### Tech Stack used 
+
+#### Front end: 
+- React
+- SAAS 
+- Axios
+
+#### Back End : 
+- Node 
+- Express
+- cors
+- knex
+- mySQL 
+- mySQL Workbench
+
+
+
+
+
+  
