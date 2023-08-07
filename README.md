@@ -11,12 +11,10 @@ Over time, the feed becomes more personalized, presenting listeners with snippet
 As a Software Engineer, I played a key role in swiftly building the solution while adhering to pixel-perfect designs and features crafted by the UX designers. Utilizing my background in UX design, I assisted the UX design team in creating an intuitive platform, ensuring ease of use and optimal interaction.
 Through effective communication and collaboration, I facilitated a cohesive approach between the Software Engineering, Data Science and UX Design teams, resulting in a successful and rewarding product that connects podcasters with their audience which led us to winning the competition.
 
+## Our team
 
-## Table of Content 
-- [Features and user Flow](#features)
-- [Installation](#installation)
-- [End Points](#endpoints)
-- [Conclusion](#conclusion)
+<img width="2880" alt="spotify-team" src="https://github.com/moomance/spotify/assets/122279872/4c7d2e26-44c5-4d76-be42-7328cc734ef8">
+
 
 
 ## Features 
@@ -27,6 +25,12 @@ Through effective communication and collaboration, I facilitated a cohesive appr
    - Disklike
    - Share 
    - Play the audio
+
+
+ ## User Journey
+
+<img width="2880" alt="spotify-user-journey" src="https://github.com/moomance/spotify/assets/122279872/73a35b90-d486-4134-8c5c-60b1ad041659">
+
 
 
 ## Installation
@@ -41,7 +45,10 @@ Through effective communication and collaboration, I facilitated a cohesive appr
 8. Start the server: `node --watch index.js`
 
 
-## Conclusion 
+
+
+## Screens 
+<img width="587" alt="spotify-screens" src="https://github.com/moomance/spotify/assets/122279872/98de3695-f718-4fe5-81d9-d6a2e997a544">
 
 ### Tech Stack used 
 
