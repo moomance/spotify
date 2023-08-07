@@ -99,5 +99,8 @@ The experience of spending significant time on implementing auto subtitles highl
 
 
 
+<img width="2880" alt="spotify-team-photo" src="https://github.com/moomance/spotify/assets/122279872/7e43ad24-3b42-43cb-baed-cc41a2f572e4">
+
+
 
   
